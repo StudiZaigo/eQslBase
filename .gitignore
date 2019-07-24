@@ -64,3 +64,12 @@ __recovery/
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
+
+LogBase.FDB
+eQslBase.FDB
+eQslBase*.xlsx
+eQslBase*.csv
+eQslBase*.adi
+Win32/
+udf/
+int/

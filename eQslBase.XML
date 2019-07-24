@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Application>
+		<Top Type="9">153</Top>
+		<Left Type="9">293</Left>
+		<Height Type="9">683</Height>
+		<Width Type="9">1452</Width>
+		<Application Type="10">LogBase</Application>
+		<DataPath Type="10">C:\LogBase Projects\eQslBase V1.00\</DataPath>
+		<ImgPath Type="10">C:\Users\Kunio\Pictures\eQSL\</ImgPath>
+		<TimeZone Type="10">UTC</TimeZone>
+		<TimeZoneV Type="9">0</TimeZoneV>
+		<Validity Type="10">30 minutes</Validity>
+		<ValidityV Type="9">30</ValidityV>
+		<UserName Type="10">ja7fkf</UserName>
+		<ExportPath Type="10">C:\LogBase Projects\eQslBase V1.00\</ExportPath>
+	</Application>
+	<ja7fkf>
+		<Password Type="10">waka</Password>
+		<AutoLogin Type="2">0</AutoLogin>
+		<FromDateTime Type="5">2018/09/24 10:04:39</FromDateTime>
+		<LastDateTime Type="5">2018/08/02 20:13:32</LastDateTime>
+		<FromDateTime1 Type="5">2018/04/24 11:40:01</FromDateTime1>
+	</ja7fkf>
+	<t88cj>
+		<Password Type="10">waka</Password>
+		<AutoLogin Type="2">0</AutoLogin>
+		<LastDateTime Type="5">2018/08/02 20:23:06</LastDateTime>
+		<FromDateTime Type="5">2018/09/24 10:01:29</FromDateTime>
+	</t88cj>
+	<DBGrid>
+		<Style>
+			<DATAKEY>
+				<Width Type="9">187</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">DataKey</Title>
+				<Visible Type="2">-1</Visible>
+			</DATAKEY>
+			<CALLSIGN>
+				<Width Type="9">66</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">Callsign</Title>
+				<Visible Type="2">-1</Visible>
+			</CALLSIGN>
+			<ORGCALLSIGN>
+				<Width Type="9">77</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">OrgCallsign</Title>
+				<Visible Type="2">0</Visible>
+			</ORGCALLSIGN>
+			<ONDATETIME>
+				<Width Type="9">97</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">OnDateTime</Title>
+				<Visible Type="2">-1</Visible>
+			</ONDATETIME>
+			<BAND>
+				<Width Type="9">69</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">Band</Title>
+				<Visible Type="2">-1</Visible>
+			</BAND>
+			<BAND_M>
+				<Width Type="9">50</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">Band_M</Title>
+				<Visible Type="2">-1</Visible>
+			</BAND_M>
+			<MODE>
+				<Width Type="9">41</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">Mode</Title>
+				<Visible Type="2">-1</Visible>
+			</MODE>
+			<SUFFIX>
+				<Width Type="9">42</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">Suffix</Title>
+				<Visible Type="2">-1</Visible>
+			</SUFFIX>
+			<GRIDLOC>
+				<Width Type="9">49</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">GridLoc</Title>
+				<Visible Type="2">-1</Visible>
+			</GRIDLOC>
+			<QSLMSG>
+				<Width Type="9">177</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">QslMsg</Title>
+				<Visible Type="2">-1</Visible>
+			</QSLMSG>
+			<NUM>
+				<Width Type="9">51</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">Num</Title>
+				<Visible Type="2">-1</Visible>
+			</NUM>
+			<MATCH>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">Match</Title>
+				<Visible Type="2">-1</Visible>
+			</MATCH>
+			<NEWSTATION>
+				<Width Type="9">71</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">NewStation</Title>
+				<Visible Type="2">-1</Visible>
+			</NEWSTATION>
+			<NEWJCA>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">NewJCA</Title>
+				<Visible Type="2">-1</Visible>
+			</NEWJCA>
+			<ARCHIVED>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">Archived</Title>
+				<Visible Type="2">-1</Visible>
+			</ARCHIVED>
+			<PRINTED>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">Printed</Title>
+				<Visible Type="2">-1</Visible>
+			</PRINTED>
+			<ISNEW>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">IsNew</Title>
+				<Visible Type="2">-1</Visible>
+			</ISNEW>
+			<ISMARK>
+				<Width Type="9">64</Width>
+				<Alignment Type="9">1</Alignment>
+				<Title Type="10">IsMark</Title>
+				<Visible Type="2">-1</Visible>
+			</ISMARK>
+			<GridLoc>
+				<Width Type="9">49</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">GridLoc</Title>
+				<Visible Type="2">-1</Visible>
+			</GridLoc>
+			<QslMsg>
+				<Width Type="9">177</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">QslMsg</Title>
+				<Visible Type="2">-1</Visible>
+			</QslMsg>
+			<DOWNLOADDATE>
+				<Width Type="9">97</Width>
+				<Alignment Type="9">0</Alignment>
+				<Title Type="10">DownloadDate</Title>
+				<Visible Type="2">-1</Visible>
+			</DOWNLOADDATE>
+		</Style>
+		<Order Type="10">DATAKEY,CALLSIGN,ONDATETIME,BAND,BAND_M,MODE,SUFFIX,GridLoc,QslMsg,NUM,MATCH,NEWSTATION,NEWJCA,ARCHIVED,PRINTED,ISNEW,ISMARK,DOWNLOADDATE</Order>
+	</DBGrid>
+</root>

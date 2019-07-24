@@ -1,0 +1,2765 @@
+
+DV200	Wed May 01 22:10:59 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 01 22:41:28 2013
+	Fatal lock manager error: invalid lock id (32236), errno: 0
+
+
+DV200	Sat Jun 01 22:41:28 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 01 22:41:28 2013
+	Fatal lock manager error: invalid lock id (32288), errno: 0
+
+
+DV200	Sat Jun 01 22:43:15 2013
+	Fatal lock manager error: invalid lock id (33152), errno: 0
+
+
+DV200	Sat Jun 01 22:43:15 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 01 22:43:15 2013
+	Fatal lock manager error: invalid lock id (32520), errno: 0
+
+
+DV200	Sat Jun 01 22:43:56 2013
+	Fatal lock manager error: invalid lock id (37612), errno: 0
+
+
+DV200	Sat Jun 01 22:43:56 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 01 22:43:56 2013
+	Fatal lock manager error: invalid lock id (38632), errno: 0
+
+
+DV200	Sat Jun 08 00:35:28 2013
+	Fatal lock manager error: invalid lock id (29328), errno: 0
+
+
+DV200	Sat Jun 08 00:35:29 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 00:35:29 2013
+	Fatal lock manager error: invalid lock id (27456), errno: 0
+
+
+DV200	Sat Jun 08 00:36:53 2013
+	Fatal lock manager error: invalid lock id (29956), errno: 0
+
+
+DV200	Sat Jun 08 00:36:54 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 00:36:54 2013
+	Fatal lock manager error: invalid lock id (31828), errno: 0
+
+
+DV200	Sat Jun 08 00:39:48 2013
+	Fatal lock manager error: invalid lock id (28444), errno: 0
+
+
+DV200	Sat Jun 08 00:39:48 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 00:39:48 2013
+	Fatal lock manager error: invalid lock id (30684), errno: 0
+
+
+DV200	Sat Jun 08 00:47:34 2013
+	Fatal lock manager error: invalid lock id (27404), errno: 0
+
+
+DV200	Sat Jun 08 00:47:34 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 00:47:34 2013
+	Fatal lock manager error: invalid lock id (28600), errno: 0
+
+
+DV200	Sat Jun 08 00:58:59 2013
+	Fatal lock manager error: invalid lock id (27612), errno: 0
+
+
+DV200	Sat Jun 08 00:58:59 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 00:58:59 2013
+	Fatal lock manager error: invalid lock id (27924), errno: 0
+
+
+DV200	Sat Jun 08 01:00:55 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Sat Jun 08 01:00:55 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 01:00:55 2013
+	Fatal lock manager error: invalid lock id (29172), errno: 0
+
+
+DV200	Sat Jun 08 14:32:58 2013
+	Fatal lock manager error: invalid lock id (28184), errno: 0
+
+
+DV200	Sat Jun 08 14:32:58 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 14:32:58 2013
+	Fatal lock manager error: invalid lock id (31932), errno: 0
+
+
+DV200	Sat Jun 08 14:36:17 2013
+	Fatal lock manager error: invalid lock id (26976), errno: 0
+
+
+DV200	Sat Jun 08 14:36:17 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 14:36:17 2013
+	Fatal lock manager error: invalid lock id (30476), errno: 0
+
+
+DV200	Sat Jun 08 14:57:37 2013
+	Fatal lock manager error: invalid lock id (31360), errno: 0
+
+
+DV200	Sat Jun 08 14:57:38 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 14:57:38 2013
+	Fatal lock manager error: invalid lock id (29748), errno: 0
+
+
+DV200	Sat Jun 08 14:59:02 2013
+	Fatal lock manager error: invalid lock id (31672), errno: 0
+
+
+DV200	Sat Jun 08 14:59:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 14:59:02 2013
+	Fatal lock manager error: invalid lock id (27976), errno: 0
+
+
+DV200	Sat Jun 08 15:10:06 2013
+	Fatal lock manager error: invalid lock id (31048), errno: 0
+
+
+DV200	Sat Jun 08 15:10:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:10:06 2013
+	Fatal lock manager error: invalid lock id (27144), errno: 0
+
+
+DV200	Sat Jun 08 15:12:11 2013
+	Fatal lock manager error: invalid lock id (27028), errno: 0
+
+
+DV200	Sat Jun 08 15:12:11 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:12:11 2013
+	Fatal lock manager error: invalid lock id (27560), errno: 0
+
+
+DV200	Sat Jun 08 15:14:51 2013
+	Fatal lock manager error: invalid lock id (28704), errno: 0
+
+
+DV200	Sat Jun 08 15:14:52 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:14:52 2013
+	Fatal lock manager error: invalid lock id (27924), errno: 0
+
+
+DV200	Sat Jun 08 15:16:17 2013
+	Fatal lock manager error: invalid lock id (29120), errno: 0
+
+
+DV200	Sat Jun 08 15:16:20 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:16:20 2013
+	Fatal lock manager error: invalid lock id (28288), errno: 0
+
+
+DV200	Sat Jun 08 15:27:36 2013
+	Fatal lock manager error: invalid lock id (31516), errno: 0
+
+
+DV200	Sat Jun 08 15:27:39 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:27:39 2013
+	Fatal lock manager error: invalid lock id (30996), errno: 0
+
+
+DV200	Sat Jun 08 15:29:43 2013
+	Fatal lock manager error: invalid lock id (29328), errno: 0
+
+
+DV200	Sat Jun 08 15:29:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:29:44 2013
+	Fatal lock manager error: invalid lock id (27976), errno: 0
+
+
+DV200	Sat Jun 08 15:31:09 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Sat Jun 08 15:31:09 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:31:09 2013
+	Fatal lock manager error: invalid lock id (28392), errno: 0
+
+
+DV200	Sat Jun 08 15:31:53 2013
+	Fatal lock manager error: invalid lock id (31516), errno: 0
+
+
+DV200	Sat Jun 08 15:31:53 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:31:53 2013
+	Fatal lock manager error: invalid lock id (31464), errno: 0
+
+
+DV200	Sat Jun 08 15:33:07 2013
+	Fatal lock manager error: invalid lock id (29172), errno: 0
+
+
+DV200	Sat Jun 08 15:33:07 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:33:07 2013
+	Fatal lock manager error: invalid lock id (31412), errno: 0
+
+
+DV200	Sat Jun 08 15:34:14 2013
+	Fatal lock manager error: invalid lock id (29224), errno: 0
+
+
+DV200	Sat Jun 08 15:34:14 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 15:34:14 2013
+	Fatal lock manager error: invalid lock id (28444), errno: 0
+
+
+DV200	Sat Jun 08 17:10:27 2013
+	Fatal lock manager error: invalid lock id (30424), errno: 0
+
+
+DV200	Sat Jun 08 17:10:28 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 17:10:28 2013
+	Fatal lock manager error: invalid lock id (27768), errno: 0
+
+
+DV200	Sat Jun 08 17:11:38 2013
+	Fatal lock manager error: invalid lock id (31568), errno: 0
+
+
+DV200	Sat Jun 08 17:11:38 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 17:11:38 2013
+	Fatal lock manager error: invalid lock id (30580), errno: 0
+
+
+DV200	Sat Jun 08 22:52:26 2013
+	Fatal lock manager error: invalid lock id (42308), errno: 0
+
+
+DV200	Sat Jun 08 22:52:28 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 23:24:41 2013
+	Fatal lock manager error: invalid lock id (27196), errno: 0
+
+
+DV200	Sat Jun 08 23:24:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 23:24:57 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 23:24:57 2013
+	Fatal lock manager error: invalid lock id (26976), errno: 0
+
+
+DV200	Sat Jun 08 23:29:04 2013
+	Fatal lock manager error: invalid lock id (40096), errno: 0
+
+
+DV200	Sat Jun 08 23:31:03 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 08 23:31:03 2013
+	Fatal lock manager error: invalid lock id (39056), errno: 0
+
+
+DV200	Sat Jun 08 23:36:24 2013
+	Fatal lock manager error: invalid lock id (28132), errno: 0
+
+
+DV200	Sat Jun 08 23:36:27 2013
+	Fatal lock manager error: invalid lock id (27560), errno: 0
+
+
+DV200	Sat Jun 08 23:36:27 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 10:38:34 2013
+	Fatal lock manager error: invalid lock id (38912), errno: 0
+
+
+DV200	Sun Jun 09 10:38:34 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 10:38:34 2013
+	Fatal lock manager error: invalid lock id (29800), errno: 0
+
+
+DV200	Sun Jun 09 10:39:22 2013
+	Fatal lock manager error: invalid lock id (28288), errno: 0
+
+
+DV200	Sun Jun 09 10:39:22 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 10:39:35 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 10:39:35 2013
+	Fatal lock manager error: invalid lock id (29172), errno: 0
+
+
+DV200	Sun Jun 09 10:46:02 2013
+	Fatal lock manager error: invalid lock id (28652), errno: 0
+
+
+DV200	Sun Jun 09 10:46:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 10:46:02 2013
+	Fatal lock manager error: invalid lock id (27196), errno: 0
+
+
+DV200	Sun Jun 09 18:18:57 2013
+	Fatal lock manager error: invalid lock id (27664), errno: 0
+
+
+DV200	Sun Jun 09 18:18:57 2013
+	Fatal lock manager error: invalid lock id (31100), errno: 0
+
+
+DV200	Sun Jun 09 18:18:57 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:21:53 2013
+	Fatal lock manager error: invalid lock id (31308), errno: 0
+
+
+DV200	Sun Jun 09 18:21:53 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:21:53 2013
+	Fatal lock manager error: invalid lock id (31048), errno: 0
+
+
+DV200	Sun Jun 09 18:23:23 2013
+	Fatal lock manager error: invalid lock id (30632), errno: 0
+
+
+DV200	Sun Jun 09 18:23:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:23:23 2013
+	Fatal lock manager error: invalid lock id (31828), errno: 0
+
+
+DV200	Sun Jun 09 18:28:18 2013
+	Fatal lock manager error: invalid lock id (27352), errno: 0
+
+
+DV200	Sun Jun 09 18:28:18 2013
+	Fatal lock manager error: invalid lock id (29800), errno: 0
+
+
+DV200	Sun Jun 09 18:28:18 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:35:12 2013
+	Fatal lock manager error: invalid lock id (27976), errno: 0
+
+
+DV200	Sun Jun 09 18:35:12 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:35:12 2013
+	Fatal lock manager error: invalid lock id (41024), errno: 0
+
+
+DV200	Sun Jun 09 18:36:06 2013
+	Fatal lock manager error: invalid lock id (28912), errno: 0
+
+
+DV200	Sun Jun 09 18:36:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:36:06 2013
+	Fatal lock manager error: invalid lock id (30736), errno: 0
+
+
+DV200	Sun Jun 09 18:36:56 2013
+	Fatal lock manager error: invalid lock id (41232), errno: 0
+
+
+DV200	Sun Jun 09 18:36:56 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:36:56 2013
+	Fatal lock manager error: invalid lock id (30008), errno: 0
+
+
+DV200	Sun Jun 09 18:38:26 2013
+	Fatal lock manager error: invalid lock id (27976), errno: 0
+
+
+DV200	Sun Jun 09 18:38:26 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 18:38:26 2013
+	Fatal lock manager error: invalid lock id (27352), errno: 0
+
+
+DV200	Sun Jun 09 21:15:23 2013
+	Fatal lock manager error: invalid lock id (29016), errno: 0
+
+
+DV200	Sun Jun 09 21:15:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 21:15:23 2013
+	Fatal lock manager error: invalid lock id (40920), errno: 0
+
+
+DV200	Sun Jun 09 21:16:43 2013
+	Fatal lock manager error: invalid lock id (27664), errno: 0
+
+
+DV200	Sun Jun 09 21:16:43 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 21:16:56 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 21:16:56 2013
+	Fatal lock manager error: invalid lock id (31516), errno: 0
+
+
+DV200	Sun Jun 09 21:21:51 2013
+	Fatal lock manager error: invalid lock id (30632), errno: 0
+
+
+DV200	Sun Jun 09 21:21:51 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 09 21:21:51 2013
+	Fatal lock manager error: invalid lock id (28912), errno: 0
+
+
+DV200	Thu Jun 13 22:53:33 2013
+	Fatal lock manager error: invalid lock id (30476), errno: 0
+
+
+DV200	Thu Jun 13 22:53:33 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 22:53:33 2013
+	Fatal lock manager error: invalid lock id (30528), errno: 0
+
+
+DV200	Thu Jun 13 22:54:25 2013
+	enterFastMutex: dead process detected, pid = 1508
+
+
+DV200	Thu Jun 13 22:55:37 2013
+	Fatal lock manager error: invalid lock id (29172), errno: 0
+
+
+DV200	Thu Jun 13 22:55:37 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 22:55:37 2013
+	Fatal lock manager error: invalid lock id (28184), errno: 0
+
+
+DV200	Thu Jun 13 22:56:57 2013
+	Fatal lock manager error: invalid lock id (27248), errno: 0
+
+
+DV200	Thu Jun 13 22:56:57 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 22:56:57 2013
+	Fatal lock manager error: invalid lock id (30944), errno: 0
+
+
+DV200	Thu Jun 13 23:00:44 2013
+	Fatal lock manager error: invalid lock id (27300), errno: 0
+
+
+DV200	Thu Jun 13 23:00:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:00:44 2013
+	Fatal lock manager error: invalid lock id (28652), errno: 0
+
+
+DV200	Thu Jun 13 23:12:01 2013
+	Fatal lock manager error: invalid lock id (29956), errno: 0
+
+
+DV200	Thu Jun 13 23:12:01 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:12:01 2013
+	Fatal lock manager error: invalid lock id (31100), errno: 0
+
+
+DV200	Thu Jun 13 23:14:32 2013
+	Fatal lock manager error: invalid lock id (30476), errno: 0
+
+
+DV200	Thu Jun 13 23:14:32 2013
+	Fatal lock manager error: invalid lock id (30788), errno: 0
+
+
+DV200	Thu Jun 13 23:14:32 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:14:32 2013
+	Fatal lock manager error: invalid lock id (38284), errno: 0
+
+
+DV200	Thu Jun 13 23:17:24 2013
+	Fatal lock manager error: invalid lock id (28652), errno: 0
+
+
+DV200	Thu Jun 13 23:17:24 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:17:24 2013
+	Fatal lock manager error: invalid lock id (28236), errno: 0
+
+
+DV200	Thu Jun 13 23:19:06 2013
+	Fatal lock manager error: invalid lock id (27560), errno: 0
+
+
+DV200	Thu Jun 13 23:19:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:19:06 2013
+	Fatal lock manager error: invalid lock id (31360), errno: 0
+
+
+DV200	Thu Jun 13 23:20:10 2013
+	Fatal lock manager error: invalid lock id (27924), errno: 0
+
+
+DV200	Thu Jun 13 23:20:10 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:20:10 2013
+	Fatal lock manager error: invalid lock id (28912), errno: 0
+
+
+DV200	Thu Jun 13 23:21:33 2013
+	Fatal lock manager error: invalid lock id (26976), errno: 0
+
+
+DV200	Thu Jun 13 23:21:33 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 13 23:21:33 2013
+	Fatal lock manager error: invalid lock id (31724), errno: 0
+
+
+DV200	Fri Jun 14 09:31:14 2013
+	Fatal lock manager error: invalid lock id (30736), errno: 0
+
+
+DV200	Fri Jun 14 09:31:14 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 09:31:14 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Fri Jun 14 09:32:43 2013
+	Fatal lock manager error: invalid lock id (28184), errno: 0
+
+
+DV200	Fri Jun 14 09:32:43 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 09:32:43 2013
+	Fatal lock manager error: invalid lock id (28028), errno: 0
+
+
+DV200	Fri Jun 14 09:34:47 2013
+	Fatal lock manager error: invalid lock id (28288), errno: 0
+
+
+DV200	Fri Jun 14 09:34:47 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 09:34:47 2013
+	Fatal lock manager error: invalid lock id (35364), errno: 0
+
+
+DV200	Fri Jun 14 09:36:26 2013
+	Fatal lock manager error: invalid lock id (31516), errno: 0
+
+
+DV200	Fri Jun 14 09:36:26 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 09:36:26 2013
+	Fatal lock manager error: invalid lock id (29904), errno: 0
+
+
+DV200	Fri Jun 14 11:27:44 2013
+	Fatal lock manager error: invalid lock id (30736), errno: 0
+
+
+DV200	Fri Jun 14 11:27:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 11:27:44 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Fri Jun 14 13:11:33 2013
+	Fatal lock manager error: invalid lock id (30112), errno: 0
+
+
+DV200	Fri Jun 14 13:11:33 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:11:33 2013
+	Fatal lock manager error: invalid lock id (28132), errno: 0
+
+
+DV200	Fri Jun 14 13:14:38 2013
+	Fatal lock manager error: invalid lock id (27196), errno: 0
+
+
+DV200	Fri Jun 14 13:14:38 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:14:38 2013
+	Fatal lock manager error: invalid lock id (26976), errno: 0
+
+
+DV200	Fri Jun 14 13:26:57 2013
+	Fatal lock manager error: invalid lock id (27196), errno: 0
+
+
+DV200	Fri Jun 14 13:26:57 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:26:57 2013
+	Fatal lock manager error: invalid lock id (30320), errno: 0
+
+
+DV200	Fri Jun 14 13:34:25 2013
+	Fatal lock manager error: invalid lock id (27352), errno: 0
+
+
+DV200	Fri Jun 14 13:34:25 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:34:25 2013
+	Fatal lock manager error: invalid lock id (30996), errno: 0
+
+
+DV200	Fri Jun 14 13:39:37 2013
+	Fatal lock manager error: invalid lock id (28288), errno: 0
+
+
+DV200	Fri Jun 14 13:39:37 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:39:37 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Fri Jun 14 13:43:16 2013
+	Fatal lock manager error: invalid lock id (29800), errno: 0
+
+
+DV200	Fri Jun 14 13:43:16 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:43:29 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:43:29 2013
+	Fatal lock manager error: invalid lock id (28652), errno: 0
+
+
+DV200	Fri Jun 14 13:44:53 2013
+	Fatal lock manager error: invalid lock id (28288), errno: 0
+
+
+DV200	Fri Jun 14 13:44:53 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:45:06 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:45:06 2013
+	Fatal lock manager error: invalid lock id (28860), errno: 0
+
+
+DV200	Fri Jun 14 13:46:57 2013
+	Fatal lock manager error: invalid lock id (29120), errno: 0
+
+
+DV200	Fri Jun 14 13:46:57 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:47:10 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:47:10 2013
+	Fatal lock manager error: invalid lock id (30476), errno: 0
+
+
+DV200	Fri Jun 14 13:49:02 2013
+	Fatal lock manager error: invalid lock id (28756), errno: 0
+
+
+DV200	Fri Jun 14 13:49:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:49:15 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 13:49:15 2013
+	Fatal lock manager error: invalid lock id (28444), errno: 0
+
+
+DV200	Fri Jun 14 14:11:38 2013
+	Fatal lock manager error: invalid lock id (35364), errno: 0
+
+
+DV200	Fri Jun 14 14:11:38 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:14:57 2013
+	enterFastMutex: dead process detected, pid = 2352
+
+
+DV200	Fri Jun 14 14:16:24 2013
+	Fatal lock manager error: invalid lock id (40264), errno: 0
+
+
+DV200	Fri Jun 14 14:16:24 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:17:00 2013
+	enterFastMutex: dead process detected, pid = 1668
+
+
+DV200	Fri Jun 14 14:21:51 2013
+	Fatal lock manager error: invalid lock id (38392), errno: 0
+
+
+DV200	Fri Jun 14 14:21:51 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:23:25 2013
+	enterFastMutex: dead process detected, pid = 4072
+
+
+DV200	Fri Jun 14 14:24:31 2013
+	Fatal lock manager error: invalid lock id (30268), errno: 0
+
+
+DV200	Fri Jun 14 14:24:31 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:24:31 2013
+	Fatal lock manager error: invalid lock id (38600), errno: 0
+
+
+DV200	Fri Jun 14 14:26:25 2013
+	Fatal lock manager error: invalid lock id (28704), errno: 0
+
+
+DV200	Fri Jun 14 14:26:25 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:28:09 2013
+	enterFastMutex: dead process detected, pid = 3376
+
+
+DV200	Fri Jun 14 14:57:50 2013
+	Fatal lock manager error: invalid lock id (40628), errno: 0
+
+
+DV200	Fri Jun 14 14:57:50 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 14:57:50 2013
+	Fatal lock manager error: invalid lock id (39900), errno: 0
+
+
+DV200	Fri Jun 14 15:19:05 2013
+	Fatal lock manager error: invalid lock id (29508), errno: 0
+
+
+DV200	Fri Jun 14 15:19:05 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:19:05 2013
+	Fatal lock manager error: invalid lock id (28988), errno: 0
+
+
+DV200	Fri Jun 14 15:20:48 2013
+	Fatal lock manager error: invalid lock id (35040), errno: 0
+
+
+DV200	Fri Jun 14 15:20:48 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:20:48 2013
+	Fatal lock manager error: invalid lock id (31800), errno: 0
+
+
+DV200	Fri Jun 14 15:23:07 2013
+	Fatal lock manager error: invalid lock id (20712), errno: 0
+
+
+DV200	Fri Jun 14 15:23:07 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:23:07 2013
+	Fatal lock manager error: invalid lock id (23148), errno: 0
+
+
+DV200	Fri Jun 14 15:25:29 2013
+	Fatal lock manager error: invalid lock id (26512), errno: 0
+
+
+DV200	Fri Jun 14 15:25:29 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:25:29 2013
+	Fatal lock manager error: invalid lock id (26396), errno: 0
+
+
+DV200	Fri Jun 14 15:27:15 2013
+	Fatal lock manager error: invalid lock id (24540), errno: 0
+
+
+DV200	Fri Jun 14 15:27:15 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:27:15 2013
+	Fatal lock manager error: invalid lock id (33316), errno: 0
+
+
+DV200	Fri Jun 14 15:29:05 2013
+	Fatal lock manager error: invalid lock id (27636), errno: 0
+
+
+DV200	Fri Jun 14 15:29:05 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:29:05 2013
+	Fatal lock manager error: invalid lock id (25816), errno: 0
+
+
+DV200	Fri Jun 14 15:36:16 2013
+	Fatal lock manager error: invalid lock id (24540), errno: 0
+
+
+DV200	Fri Jun 14 15:36:16 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:36:16 2013
+	Fatal lock manager error: invalid lock id (33316), errno: 0
+
+
+DV200	Fri Jun 14 15:37:46 2013
+	Fatal lock manager error: invalid lock id (33704), errno: 0
+
+
+DV200	Fri Jun 14 15:37:46 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:37:46 2013
+	Fatal lock manager error: invalid lock id (20712), errno: 0
+
+
+DV200	Fri Jun 14 15:56:03 2013
+	Fatal lock manager error: invalid lock id (23336), errno: 0
+
+
+DV200	Fri Jun 14 15:56:03 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 15:56:08 2013
+	Fatal lock manager error: invalid lock id (23220), errno: 0
+
+
+DV200	Fri Jun 14 16:01:55 2013
+	Fatal lock manager error: invalid lock id (22408), errno: 0
+
+
+DV200	Fri Jun 14 16:01:55 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 16:02:00 2013
+	Fatal lock manager error: invalid lock id (23220), errno: 0
+
+
+DV200	Fri Jun 14 16:12:02 2013
+	Fatal lock manager error: invalid lock id (29752), errno: 0
+
+
+DV200	Fri Jun 14 16:12:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:23:10 2013
+	Fatal lock manager error: invalid lock id (31772), errno: 0
+
+
+DV200	Fri Jun 14 22:23:13 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:25:08 2013
+	Fatal lock manager error: invalid lock id (30728), errno: 0
+
+
+DV200	Fri Jun 14 22:25:11 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:25:11 2013
+	Fatal lock manager error: invalid lock id (35008), errno: 0
+
+
+DV200	Fri Jun 14 22:26:42 2013
+	Fatal lock manager error: invalid lock id (37976), errno: 0
+
+
+DV200	Fri Jun 14 22:26:45 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:26:45 2013
+	Fatal lock manager error: invalid lock id (38724), errno: 0
+
+
+DV200	Fri Jun 14 22:29:10 2013
+	Fatal lock manager error: invalid lock id (38608), errno: 0
+
+
+DV200	Fri Jun 14 22:29:13 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:29:13 2013
+	Fatal lock manager error: invalid lock id (38260), errno: 0
+
+
+DV200	Fri Jun 14 22:34:32 2013
+	Fatal lock manager error: invalid lock id (32920), errno: 0
+
+
+DV200	Fri Jun 14 22:34:36 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:36:01 2013
+	Fatal lock manager error: invalid lock id (35396), errno: 0
+
+
+DV200	Fri Jun 14 22:36:01 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:36:01 2013
+	Fatal lock manager error: invalid lock id (38828), errno: 0
+
+
+DV200	Fri Jun 14 22:44:46 2013
+	Fatal lock manager error: invalid lock id (35060), errno: 0
+
+
+DV200	Fri Jun 14 22:44:49 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:44:49 2013
+	Fatal lock manager error: invalid lock id (38092), errno: 0
+
+
+DV200	Fri Jun 14 22:46:20 2013
+	Fatal lock manager error: invalid lock id (29940), errno: 0
+
+
+DV200	Fri Jun 14 22:46:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:46:23 2013
+	Fatal lock manager error: invalid lock id (36840), errno: 0
+
+
+DV200	Fri Jun 14 22:48:35 2013
+	Fatal lock manager error: invalid lock id (38260), errno: 0
+
+
+DV200	Fri Jun 14 22:48:38 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 22:48:38 2013
+	Fatal lock manager error: invalid lock id (35628), errno: 0
+
+
+DV200	Fri Jun 14 23:05:58 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Fri Jun 14 23:06:01 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:07:52 2013
+	Fatal lock manager error: invalid lock id (25008), errno: 0
+
+
+DV200	Fri Jun 14 23:07:55 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:07:55 2013
+	Fatal lock manager error: invalid lock id (25268), errno: 0
+
+
+DV200	Fri Jun 14 23:13:29 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Fri Jun 14 23:13:32 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:17:20 2013
+	Fatal lock manager error: invalid lock id (25008), errno: 0
+
+
+DV200	Fri Jun 14 23:17:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:17:23 2013
+	Fatal lock manager error: invalid lock id (25268), errno: 0
+
+
+DV200	Fri Jun 14 23:19:33 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Fri Jun 14 23:19:36 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:21:00 2013
+	Fatal lock manager error: invalid lock id (25008), errno: 0
+
+
+DV200	Fri Jun 14 23:21:03 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:21:03 2013
+	Fatal lock manager error: invalid lock id (25268), errno: 0
+
+
+DV200	Fri Jun 14 23:23:23 2013
+	Fatal lock manager error: invalid lock id (25892), errno: 0
+
+
+DV200	Fri Jun 14 23:23:26 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:23:26 2013
+	Fatal lock manager error: invalid lock id (25112), errno: 0
+
+
+DV200	Fri Jun 14 23:27:32 2013
+	Fatal lock manager error: invalid lock id (30788), errno: 0
+
+
+DV200	Fri Jun 14 23:27:35 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:29:41 2013
+	Fatal lock manager error: invalid lock id (28104), errno: 0
+
+
+DV200	Fri Jun 14 23:29:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:29:44 2013
+	Fatal lock manager error: invalid lock id (28916), errno: 0
+
+
+DV200	Fri Jun 14 23:31:12 2013
+	Fatal lock manager error: invalid lock id (27756), errno: 0
+
+
+DV200	Fri Jun 14 23:31:15 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 14 23:31:15 2013
+	Fatal lock manager error: invalid lock id (27988), errno: 0
+
+
+DV200	Sat Jun 15 11:54:13 2013
+	Sweep is started by SYSDBA
+	Database "C:\LOGBASE PROJECTS\LOGBASE V0.0.1\LOGBASE.FDB" 
+	OIT 3399, OAT 18419, OST 18419, Next 18420
+
+
+DV200	Sat Jun 15 11:54:14 2013
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V0.0.1\LOGBASE.FDB" 
+	OIT 18419, OAT 18419, OST 18419, Next 18421
+
+
+DV200	Sat Jun 15 12:09:23 2013
+	Fatal lock manager error: invalid lock id (31564), errno: 0
+
+
+DV200	Sat Jun 15 12:09:27 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:09:27 2013
+	Fatal lock manager error: invalid lock id (38680), errno: 0
+
+
+DV200	Sat Jun 15 12:11:00 2013
+	Fatal lock manager error: invalid lock id (36728), errno: 0
+
+
+DV200	Sat Jun 15 12:11:03 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:11:03 2013
+	Fatal lock manager error: invalid lock id (43880), errno: 0
+
+
+DV200	Sat Jun 15 12:12:47 2013
+	Fatal lock manager error: invalid lock id (28880), errno: 0
+
+
+DV200	Sat Jun 15 12:12:50 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:12:50 2013
+	Fatal lock manager error: invalid lock id (35616), errno: 0
+
+
+DV200	Sat Jun 15 12:14:15 2013
+	Fatal lock manager error: invalid lock id (38212), errno: 0
+
+
+DV200	Sat Jun 15 12:14:18 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:14:18 2013
+	Fatal lock manager error: invalid lock id (38368), errno: 0
+
+
+DV200	Sat Jun 15 12:17:50 2013
+	Fatal lock manager error: invalid lock id (38472), errno: 0
+
+
+DV200	Sat Jun 15 12:17:53 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:17:53 2013
+	Fatal lock manager error: invalid lock id (34424), errno: 0
+
+
+DV200	Sat Jun 15 12:21:54 2013
+	Fatal lock manager error: invalid lock id (30944), errno: 0
+
+
+DV200	Sat Jun 15 12:21:57 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:21:57 2013
+	Fatal lock manager error: invalid lock id (38044), errno: 0
+
+
+DV200	Sat Jun 15 12:23:29 2013
+	Fatal lock manager error: invalid lock id (35616), errno: 0
+
+
+DV200	Sat Jun 15 12:23:32 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 12:23:32 2013
+	Fatal lock manager error: invalid lock id (38900), errno: 0
+
+
+DV200	Sat Jun 15 21:30:48 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 21:30:51 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:32:20 2013
+	Fatal lock manager error: invalid lock id (25008), errno: 0
+
+
+DV200	Sat Jun 15 21:32:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:32:23 2013
+	Fatal lock manager error: invalid lock id (25268), errno: 0
+
+
+DV200	Sat Jun 15 21:34:36 2013
+	Fatal lock manager error: invalid lock id (25892), errno: 0
+
+
+DV200	Sat Jun 15 21:34:39 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:34:39 2013
+	Fatal lock manager error: invalid lock id (25112), errno: 0
+
+
+DV200	Sat Jun 15 21:37:39 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 21:37:42 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:41:48 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 21:41:51 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:43:50 2013
+	Fatal lock manager error: invalid lock id (25008), errno: 0
+
+
+DV200	Sat Jun 15 21:43:53 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:43:53 2013
+	Fatal lock manager error: invalid lock id (25268), errno: 0
+
+
+DV200	Sat Jun 15 21:57:44 2013
+	Fatal lock manager error: invalid lock id (24800), errno: 0
+
+
+DV200	Sat Jun 15 21:57:47 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:57:47 2013
+	Fatal lock manager error: invalid lock id (25112), errno: 0
+
+
+DV200	Sat Jun 15 21:59:42 2013
+	Fatal lock manager error: invalid lock id (25684), errno: 0
+
+
+DV200	Sat Jun 15 21:59:45 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 21:59:45 2013
+	Fatal lock manager error: invalid lock id (24956), errno: 0
+
+
+DV200	Sat Jun 15 22:01:23 2013
+	Fatal lock manager error: invalid lock id (26944), errno: 0
+
+
+DV200	Sat Jun 15 22:01:26 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:01:26 2013
+	Fatal lock manager error: invalid lock id (31880), errno: 0
+
+
+DV200	Sat Jun 15 22:02:52 2013
+	Fatal lock manager error: invalid lock id (28220), errno: 0
+
+
+DV200	Sat Jun 15 22:02:55 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:02:55 2013
+	Fatal lock manager error: invalid lock id (28684), errno: 0
+
+
+DV200	Sat Jun 15 22:03:46 2013
+	Fatal lock manager error: invalid lock id (25840), errno: 0
+
+
+DV200	Sat Jun 15 22:03:49 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:08:23 2013
+	Fatal lock manager error: invalid lock id (30440), errno: 0
+
+
+DV200	Sat Jun 15 22:08:26 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:08:26 2013
+	Fatal lock manager error: invalid lock id (25476), errno: 0
+
+
+DV200	Sat Jun 15 22:10:21 2013
+	Fatal lock manager error: invalid lock id (25476), errno: 0
+
+
+DV200	Sat Jun 15 22:10:24 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:10:24 2013
+	Fatal lock manager error: invalid lock id (26256), errno: 0
+
+
+DV200	Sat Jun 15 22:12:34 2013
+	Fatal lock manager error: invalid lock id (26828), errno: 0
+
+
+DV200	Sat Jun 15 22:12:37 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:12:37 2013
+	Fatal lock manager error: invalid lock id (25060), errno: 0
+
+
+DV200	Sat Jun 15 22:19:29 2013
+	Fatal lock manager error: invalid lock id (30324), errno: 0
+
+
+DV200	Sat Jun 15 22:19:32 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:20:56 2013
+	Fatal lock manager error: invalid lock id (25060), errno: 0
+
+
+DV200	Sat Jun 15 22:20:59 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:20:59 2013
+	Fatal lock manager error: invalid lock id (25736), errno: 0
+
+
+DV200	Sat Jun 15 22:22:41 2013
+	Fatal lock manager error: invalid lock id (25320), errno: 0
+
+
+DV200	Sat Jun 15 22:22:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:22:44 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 22:24:45 2013
+	Fatal lock manager error: invalid lock id (25320), errno: 0
+
+
+DV200	Sat Jun 15 22:24:48 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:24:48 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 22:31:37 2013
+	Fatal lock manager error: invalid lock id (25320), errno: 0
+
+
+DV200	Sat Jun 15 22:31:40 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 22:31:40 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sat Jun 15 23:04:41 2013
+	Fatal lock manager error: invalid lock id (19768), errno: 0
+
+
+DV200	Sat Jun 15 23:04:44 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 23:22:13 2013
+	Fatal lock manager error: invalid lock id (28916), errno: 0
+
+
+DV200	Sat Jun 15 23:22:16 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 15 23:22:16 2013
+	Fatal lock manager error: invalid lock id (30556), errno: 0
+
+
+DV200	Sat Jun 15 23:34:15 2013
+	Fatal lock manager error: invalid lock id (38576), errno: 0
+
+
+DV200	Sat Jun 15 23:34:18 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 20:30:25 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Sun Jun 16 20:30:28 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 20:30:28 2013
+	Fatal lock manager error: invalid lock id (37732), errno: 0
+
+
+DV200	Sun Jun 16 20:32:55 2013
+	Fatal lock manager error: invalid lock id (37784), errno: 0
+
+
+DV200	Sun Jun 16 20:32:58 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 20:32:58 2013
+	Fatal lock manager error: invalid lock id (24956), errno: 0
+
+
+DV200	Sun Jun 16 20:33:59 2013
+	Fatal lock manager error: invalid lock id (26308), errno: 0
+
+
+DV200	Sun Jun 16 20:33:59 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 20:33:59 2013
+	Fatal lock manager error: invalid lock id (37472), errno: 0
+
+
+DV200	Sun Jun 16 21:10:24 2013
+	Fatal lock manager error: invalid lock id (46900), errno: 0
+
+
+DV200	Sun Jun 16 21:10:24 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:11:05 2013
+	enterFastMutex: dead process detected, pid = 4312
+
+
+DV200	Sun Jun 16 21:11:06 2013
+	Fatal lock manager error: invalid lock id (45184), errno: 0
+
+
+DV200	Sun Jun 16 21:11:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:11:59 2013
+	enterFastMutex: dead process detected, pid = 4248
+
+
+DV200	Sun Jun 16 21:14:50 2013
+	Fatal lock manager error: invalid lock id (37888), errno: 0
+
+
+DV200	Sun Jun 16 21:14:50 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:18:18 2013
+	Fatal lock manager error: invalid lock id (37732), errno: 0
+
+
+DV200	Sun Jun 16 21:18:18 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:20:36 2013
+	Fatal lock manager error: invalid lock id (25060), errno: 0
+
+
+DV200	Sun Jun 16 21:20:36 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:25:56 2013
+	Fatal lock manager error: invalid lock id (48408), errno: 0
+
+
+DV200	Sun Jun 16 21:25:56 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:27:02 2013
+	Fatal lock manager error: invalid lock id (44768), errno: 0
+
+
+DV200	Sun Jun 16 21:27:02 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:29:58 2013
+	Fatal lock manager error: invalid lock id (30672), errno: 0
+
+
+DV200	Sun Jun 16 21:29:58 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:31:26 2013
+	Fatal lock manager error: invalid lock id (44404), errno: 0
+
+
+DV200	Sun Jun 16 21:31:26 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:32:37 2013
+	Fatal lock manager error: invalid lock id (22684), errno: 0
+
+
+DV200	Sun Jun 16 21:32:37 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:34:34 2013
+	Fatal lock manager error: invalid lock id (40020), errno: 0
+
+
+DV200	Sun Jun 16 21:34:34 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:38:47 2013
+	Fatal lock manager error: invalid lock id (38824), errno: 0
+
+
+DV200	Sun Jun 16 21:38:47 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:40:30 2013
+	Fatal lock manager error: invalid lock id (45652), errno: 0
+
+
+DV200	Sun Jun 16 21:40:30 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:43:03 2013
+	Fatal lock manager error: invalid lock id (36172), errno: 0
+
+
+DV200	Sun Jun 16 21:43:03 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:45:26 2013
+	Fatal lock manager error: invalid lock id (24644), errno: 0
+
+
+DV200	Sun Jun 16 21:45:26 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 21:47:44 2013
+	Fatal lock manager error: invalid lock id (33216), errno: 0
+
+
+DV200	Sun Jun 16 21:47:44 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 16 22:12:27 2013
+	Fatal lock manager error: invalid lock id (26152), errno: 0
+
+
+DV200	Sun Jun 16 22:12:27 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 21:37:27 2013
+	Fatal lock manager error: invalid lock id (42352), errno: 0
+
+
+DV200	Thu Jun 20 21:37:27 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 21:37:27 2013
+	Fatal lock manager error: invalid lock id (32036), errno: 0
+
+
+DV200	Thu Jun 20 21:39:23 2013
+	Fatal lock manager error: invalid lock id (34004), errno: 0
+
+
+DV200	Thu Jun 20 21:39:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 21:39:23 2013
+	Fatal lock manager error: invalid lock id (42508), errno: 0
+
+
+DV200	Thu Jun 20 22:45:31 2013
+	Fatal lock manager error: invalid lock id (40636), errno: 0
+
+
+DV200	Thu Jun 20 22:45:31 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 22:45:31 2013
+	Fatal lock manager error: invalid lock id (35284), errno: 0
+
+
+DV200	Thu Jun 20 22:49:17 2013
+	Fatal lock manager error: invalid lock id (41572), errno: 0
+
+
+DV200	Thu Jun 20 22:49:17 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 22:49:17 2013
+	Fatal lock manager error: invalid lock id (34172), errno: 0
+
+
+DV200	Thu Jun 20 22:52:29 2013
+	Fatal lock manager error: invalid lock id (40636), errno: 0
+
+
+DV200	Thu Jun 20 22:52:29 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 22:52:29 2013
+	Fatal lock manager error: invalid lock id (46936), errno: 0
+
+
+DV200	Thu Jun 20 22:53:52 2013
+	Fatal lock manager error: invalid lock id (40168), errno: 0
+
+
+DV200	Thu Jun 20 22:53:52 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 22:53:52 2013
+	Fatal lock manager error: invalid lock id (32036), errno: 0
+
+
+DV200	Thu Jun 20 23:05:07 2013
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	C:\LogBase Projects\LogBase V0.0.1\bin/ib_util.dll library has not been found
+	ib_util_init not found in C:\LogBase Projects\LogBase V0.0.1\ib_util.dll
+	ib_util.dll library has not been found
+
+
+DV200	Thu Jun 20 23:05:37 2013
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	C:\LogBase Projects\LogBase V0.0.1\bin/ib_util.dll library has not been found
+	ib_util_init not found in C:\LogBase Projects\LogBase V0.0.1\ib_util.dll
+	ib_util.dll library has not been found
+
+
+DV200	Thu Jun 20 23:05:46 2013
+	ib_util init failed, UDFs can't be used - looks like firebird misconfigured
+	
+	C:\LogBase Projects\LogBase V0.0.1\bin/ib_util.dll library has not been found
+	ib_util_init not found in C:\LogBase Projects\LogBase V0.0.1\ib_util.dll
+	ib_util_init not found in ib_util.dll
+
+
+DV200	Thu Jun 20 23:25:28 2013
+	Fatal lock manager error: invalid lock id (29032), errno: 0
+
+
+DV200	Thu Jun 20 23:25:28 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 23:25:28 2013
+	Fatal lock manager error: invalid lock id (37560), errno: 0
+
+
+DV200	Thu Jun 20 23:33:58 2013
+	Fatal lock manager error: invalid lock id (30092), errno: 0
+
+
+DV200	Thu Jun 20 23:33:58 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 20 23:33:58 2013
+	Fatal lock manager error: invalid lock id (47564), errno: 0
+
+
+DV200	Fri Jun 21 09:10:39 2013
+	Fatal lock manager error: invalid lock id (22756), errno: 0
+
+
+DV200	Fri Jun 21 09:10:39 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 09:10:39 2013
+	Fatal lock manager error: invalid lock id (27060), errno: 0
+
+
+DV200	Fri Jun 21 09:12:01 2013
+	Fatal lock manager error: invalid lock id (23336), errno: 0
+
+
+DV200	Fri Jun 21 09:12:01 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 09:12:01 2013
+	Fatal lock manager error: invalid lock id (31740), errno: 0
+
+
+DV200	Fri Jun 21 09:48:42 2013
+	Fatal lock manager error: invalid lock id (33216), errno: 0
+
+
+DV200	Fri Jun 21 09:48:42 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 09:49:04 2013
+	Fatal lock manager error: invalid lock id (30440), errno: 0
+
+
+DV200	Fri Jun 21 09:49:05 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 09:49:05 2013
+	Fatal lock manager error: invalid lock id (19652), errno: 0
+
+
+DV200	Fri Jun 21 10:50:34 2013
+	Fatal lock manager error: invalid lock id (19188), errno: 0
+
+
+DV200	Fri Jun 21 10:50:34 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 10:50:34 2013
+	Fatal lock manager error: invalid lock id (30092), errno: 0
+
+
+DV200	Fri Jun 21 10:52:01 2013
+	Fatal lock manager error: invalid lock id (30092), errno: 0
+
+
+DV200	Fri Jun 21 10:52:01 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 13:29:11 2013
+	Fatal lock manager error: invalid lock id (28220), errno: 0
+
+
+DV200	Fri Jun 21 13:29:11 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 13:31:11 2013
+	Fatal lock manager error: invalid lock id (18840), errno: 0
+
+
+DV200	Fri Jun 21 13:31:15 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:03:45 2013
+	Fatal lock manager error: invalid lock id (28100), errno: 0
+
+
+DV200	Fri Jun 21 15:03:45 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:03:45 2013
+	Fatal lock manager error: invalid lock id (28464), errno: 0
+
+
+DV200	Fri Jun 21 15:10:08 2013
+	Fatal lock manager error: invalid lock id (29764), errno: 0
+
+
+DV200	Fri Jun 21 15:10:08 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:10:08 2013
+	Fatal lock manager error: invalid lock id (40096), errno: 0
+
+
+DV200	Fri Jun 21 15:12:57 2013
+	Fatal lock manager error: invalid lock id (29712), errno: 0
+
+
+DV200	Fri Jun 21 15:12:57 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:12:57 2013
+	Fatal lock manager error: invalid lock id (32116), errno: 0
+
+
+DV200	Fri Jun 21 15:16:39 2013
+	Fatal lock manager error: invalid lock id (32116), errno: 0
+
+
+DV200	Fri Jun 21 15:16:39 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:16:39 2013
+	Fatal lock manager error: invalid lock id (31652), errno: 0
+
+
+DV200	Fri Jun 21 15:18:36 2013
+	Fatal lock manager error: invalid lock id (33788), errno: 0
+
+
+DV200	Fri Jun 21 15:18:36 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:18:36 2013
+	Fatal lock manager error: invalid lock id (28984), errno: 0
+
+
+DV200	Fri Jun 21 15:20:29 2013
+	Fatal lock manager error: invalid lock id (30996), errno: 0
+
+
+DV200	Fri Jun 21 15:20:29 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:20:29 2013
+	Fatal lock manager error: invalid lock id (38848), errno: 0
+
+
+DV200	Fri Jun 21 15:30:00 2013
+	Fatal lock manager error: invalid lock id (31048), errno: 0
+
+
+DV200	Fri Jun 21 15:30:00 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 15:30:00 2013
+	Fatal lock manager error: invalid lock id (42996), errno: 0
+
+
+DV200	Fri Jun 21 16:26:53 2013
+	Fatal lock manager error: invalid lock id (43832), errno: 0
+
+
+DV200	Fri Jun 21 16:26:53 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 16:27:06 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 16:27:06 2013
+	Fatal lock manager error: invalid lock id (43228), errno: 0
+
+
+DV200	Fri Jun 21 16:39:11 2013
+	Fatal lock manager error: invalid lock id (29712), errno: 0
+
+
+DV200	Fri Jun 21 16:39:11 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 16:39:11 2013
+	Fatal lock manager error: invalid lock id (48492), errno: 0
+
+
+DV200	Fri Jun 21 16:40:41 2013
+	Fatal lock manager error: invalid lock id (49272), errno: 0
+
+
+DV200	Fri Jun 21 16:40:41 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 16:40:41 2013
+	Fatal lock manager error: invalid lock id (38692), errno: 0
+
+
+DV200	Fri Jun 21 16:42:55 2013
+	Fatal lock manager error: invalid lock id (41784), errno: 0
+
+
+DV200	Fri Jun 21 16:42:55 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 16:42:55 2013
+	Fatal lock manager error: invalid lock id (32580), errno: 0
+
+
+DV200	Fri Jun 21 17:10:35 2013
+	Fatal lock manager error: invalid lock id (50104), errno: 0
+
+
+DV200	Fri Jun 21 17:10:35 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:10:35 2013
+	Fatal lock manager error: invalid lock id (51564), errno: 0
+
+
+DV200	Fri Jun 21 17:11:56 2013
+	Fatal lock manager error: invalid lock id (30256), errno: 0
+
+
+DV200	Fri Jun 21 17:11:56 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:11:56 2013
+	Fatal lock manager error: invalid lock id (27996), errno: 0
+
+
+DV200	Fri Jun 21 17:14:23 2013
+	Fatal lock manager error: invalid lock id (28984), errno: 0
+
+
+DV200	Fri Jun 21 17:14:23 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:14:23 2013
+	Fatal lock manager error: invalid lock id (30100), errno: 0
+
+
+DV200	Fri Jun 21 17:41:06 2013
+	Fatal lock manager error: invalid lock id (52344), errno: 0
+
+
+DV200	Fri Jun 21 17:41:06 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:41:06 2013
+	Fatal lock manager error: invalid lock id (27736), errno: 0
+
+
+DV200	Fri Jun 21 17:44:47 2013
+	Fatal lock manager error: invalid lock id (49740), errno: 0
+
+
+DV200	Fri Jun 21 17:44:47 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:44:47 2013
+	Fatal lock manager error: invalid lock id (31496), errno: 0
+
+
+DV200	Fri Jun 21 17:46:09 2013
+	Fatal lock manager error: invalid lock id (52500), errno: 0
+
+
+DV200	Fri Jun 21 17:46:09 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:46:09 2013
+	Fatal lock manager error: invalid lock id (52604), errno: 0
+
+
+DV200	Fri Jun 21 17:49:50 2013
+	Fatal lock manager error: invalid lock id (49272), errno: 0
+
+
+DV200	Fri Jun 21 17:49:50 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:49:50 2013
+	Fatal lock manager error: invalid lock id (42532), errno: 0
+
+
+DV200	Fri Jun 21 17:50:11 2013
+	Fatal lock manager error: invalid lock id (52604), errno: 0
+
+
+DV200	Fri Jun 21 17:50:11 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 17:50:11 2013
+	Fatal lock manager error: invalid lock id (52708), errno: 0
+
+
+DV200	Fri Jun 21 20:00:00 2013
+	Fatal lock manager error: invalid lock id (28100), errno: 0
+
+
+DV200	Fri Jun 21 20:00:00 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 20:00:00 2013
+	Fatal lock manager error: invalid lock id (27736), errno: 0
+
+
+DV200	Fri Jun 21 21:09:17 2013
+	Fatal lock manager error: invalid lock id (29088), errno: 0
+
+
+DV200	Fri Jun 21 21:09:20 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Jun 21 21:11:20 2013
+	error while shutting down attachment
+	deadlock
+
+
+DV200	Fri Jun 21 21:11:27 2013
+	enterFastMutex: dead process detected, pid = 4736
+
+
+DV200	Sat Jun 22 22:21:02 2013
+	Fatal lock manager error: invalid lock id (27612), errno: 0
+
+
+DV200	Sat Jun 22 22:21:02 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:21:02 2013
+	Fatal lock manager error: invalid lock id (39956), errno: 0
+
+
+DV200	Sat Jun 22 22:23:52 2013
+	Fatal lock manager error: invalid lock id (31256), errno: 0
+
+
+DV200	Sat Jun 22 22:23:52 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:23:52 2013
+	Fatal lock manager error: invalid lock id (37980), errno: 0
+
+
+DV200	Sat Jun 22 22:27:34 2013
+	Fatal lock manager error: invalid lock id (43480), errno: 0
+
+
+DV200	Sat Jun 22 22:27:34 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:27:34 2013
+	Fatal lock manager error: invalid lock id (30944), errno: 0
+
+
+DV200	Sat Jun 22 22:37:20 2013
+	Fatal lock manager error: invalid lock id (41660), errno: 0
+
+
+DV200	Sat Jun 22 22:37:20 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:37:33 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:37:33 2013
+	Fatal lock manager error: invalid lock id (31828), errno: 0
+
+
+DV200	Sat Jun 22 22:39:15 2013
+	Fatal lock manager error: invalid lock id (29580), errno: 0
+
+
+DV200	Sat Jun 22 22:39:15 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:39:15 2013
+	Fatal lock manager error: invalid lock id (37824), errno: 0
+
+
+DV200	Sat Jun 22 22:41:01 2013
+	Fatal lock manager error: invalid lock id (43712), errno: 0
+
+
+DV200	Sat Jun 22 22:41:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:41:15 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:41:15 2013
+	Fatal lock manager error: invalid lock id (39696), errno: 0
+
+
+DV200	Sat Jun 22 22:51:42 2013
+	Fatal lock manager error: invalid lock id (31204), errno: 0
+
+
+DV200	Sat Jun 22 22:51:42 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 22:51:42 2013
+	Fatal lock manager error: invalid lock id (28912), errno: 0
+
+
+DV200	Sat Jun 22 23:02:31 2013
+	Fatal lock manager error: invalid lock id (27560), errno: 0
+
+
+DV200	Sat Jun 22 23:02:31 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:02:31 2013
+	Fatal lock manager error: invalid lock id (31776), errno: 0
+
+
+DV200	Sat Jun 22 23:15:45 2013
+	Fatal lock manager error: invalid lock id (27196), errno: 0
+
+
+DV200	Sat Jun 22 23:15:45 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:15:45 2013
+	Fatal lock manager error: invalid lock id (42628), errno: 0
+
+
+DV200	Sat Jun 22 23:26:23 2013
+	Fatal lock manager error: invalid lock id (43364), errno: 0
+
+
+DV200	Sat Jun 22 23:26:23 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:26:23 2013
+	Fatal lock manager error: invalid lock id (31828), errno: 0
+
+
+DV200	Sat Jun 22 23:38:32 2013
+	Fatal lock manager error: invalid lock id (50048), errno: 0
+
+
+DV200	Sat Jun 22 23:38:32 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:38:40 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:38:40 2013
+	Fatal lock manager error: invalid lock id (30476), errno: 0
+
+
+DV200	Sat Jun 22 23:45:06 2013
+	Fatal lock manager error: invalid lock id (27456), errno: 0
+
+
+DV200	Sat Jun 22 23:45:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:45:06 2013
+	Fatal lock manager error: invalid lock id (53116), errno: 0
+
+
+DV200	Sat Jun 22 23:54:28 2013
+	Fatal lock manager error: invalid lock id (52336), errno: 0
+
+
+DV200	Sat Jun 22 23:54:28 2013
+	Shutting down the server with 3 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:54:28 2013
+	Fatal lock manager error: invalid lock id (52024), errno: 0
+
+
+DV200	Sat Jun 22 23:56:14 2013
+	Fatal lock manager error: invalid lock id (31152), errno: 0
+
+
+DV200	Sat Jun 22 23:56:14 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:56:28 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Jun 22 23:56:28 2013
+	Fatal lock manager error: invalid lock id (55092), errno: 0
+
+
+DV200	Sun Jun 23 00:00:01 2013
+	Fatal lock manager error: invalid lock id (55300), errno: 0
+
+
+DV200	Sun Jun 23 00:00:01 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:00:14 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:00:14 2013
+	Fatal lock manager error: invalid lock id (52492), errno: 0
+
+
+DV200	Sun Jun 23 00:01:37 2013
+	Fatal lock manager error: invalid lock id (51816), errno: 0
+
+
+DV200	Sun Jun 23 00:01:37 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:01:37 2013
+	Fatal lock manager error: invalid lock id (53688), errno: 0
+
+
+DV200	Sun Jun 23 00:09:09 2013
+	Fatal lock manager error: invalid lock id (38916), errno: 0
+
+
+DV200	Sun Jun 23 00:09:09 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:09:09 2013
+	Fatal lock manager error: invalid lock id (54520), errno: 0
+
+
+DV200	Sun Jun 23 00:12:05 2013
+	Fatal lock manager error: invalid lock id (29748), errno: 0
+
+
+DV200	Sun Jun 23 00:12:05 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:12:18 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 00:12:18 2013
+	Fatal lock manager error: invalid lock id (55040), errno: 0
+
+
+DV200	Sun Jun 23 20:33:22 2013
+	Fatal lock manager error: invalid lock id (30736), errno: 0
+
+
+DV200	Sun Jun 23 20:33:22 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Sun Jun 23 20:33:22 2013
+	Fatal lock manager error: invalid lock id (30892), errno: 0
+
+
+DV200	Thu Jun 27 21:35:42 2013
+	Fatal lock manager error: invalid lock id (40964), errno: 0
+
+
+DV200	Thu Jun 27 21:35:42 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:35:42 2013
+	Fatal lock manager error: invalid lock id (31908), errno: 0
+
+
+DV200	Thu Jun 27 21:37:31 2013
+	Fatal lock manager error: invalid lock id (33384), errno: 0
+
+
+DV200	Thu Jun 27 21:37:31 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:37:36 2013
+	Fatal lock manager error: invalid lock id (33048), errno: 0
+
+
+DV200	Thu Jun 27 21:41:32 2013
+	Fatal lock manager error: invalid lock id (30372), errno: 0
+
+
+DV200	Thu Jun 27 21:41:32 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:41:37 2013
+	Fatal lock manager error: invalid lock id (30424), errno: 0
+
+
+DV200	Thu Jun 27 21:54:02 2013
+	Fatal lock manager error: invalid lock id (36116), errno: 0
+
+
+DV200	Thu Jun 27 21:54:02 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:54:07 2013
+	Fatal lock manager error: invalid lock id (37588), errno: 0
+
+
+DV200	Thu Jun 27 21:57:37 2013
+	Fatal lock manager error: invalid lock id (37228), errno: 0
+
+
+DV200	Thu Jun 27 21:57:37 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:57:42 2013
+	Fatal lock manager error: invalid lock id (32608), errno: 0
+
+
+DV200	Thu Jun 27 21:59:14 2013
+	Fatal lock manager error: invalid lock id (37020), errno: 0
+
+
+DV200	Thu Jun 27 21:59:14 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 21:59:19 2013
+	Fatal lock manager error: invalid lock id (31224), errno: 0
+
+
+DV200	Thu Jun 27 22:03:06 2013
+	Fatal lock manager error: invalid lock id (37072), errno: 0
+
+
+DV200	Thu Jun 27 22:03:06 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:03:11 2013
+	Fatal lock manager error: invalid lock id (32880), errno: 0
+
+
+DV200	Thu Jun 27 22:04:32 2013
+	Fatal lock manager error: invalid lock id (40196), errno: 0
+
+
+DV200	Thu Jun 27 22:04:32 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:04:37 2013
+	Fatal lock manager error: invalid lock id (30708), errno: 0
+
+
+DV200	Thu Jun 27 22:06:13 2013
+	Fatal lock manager error: invalid lock id (40144), errno: 0
+
+
+DV200	Thu Jun 27 22:06:13 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:06:18 2013
+	Fatal lock manager error: invalid lock id (33332), errno: 0
+
+
+DV200	Thu Jun 27 22:50:30 2013
+	Fatal lock manager error: invalid lock id (36240), errno: 0
+
+
+DV200	Thu Jun 27 22:50:30 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:50:30 2013
+	Fatal lock manager error: invalid lock id (25424), errno: 0
+
+
+DV200	Thu Jun 27 22:55:11 2013
+	Fatal lock manager error: invalid lock id (26516), errno: 0
+
+
+DV200	Thu Jun 27 22:55:11 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:55:16 2013
+	Fatal lock manager error: invalid lock id (26308), errno: 0
+
+
+DV200	Thu Jun 27 22:56:47 2013
+	Fatal lock manager error: invalid lock id (24592), errno: 0
+
+
+DV200	Thu Jun 27 22:56:47 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:56:52 2013
+	Fatal lock manager error: invalid lock id (24644), errno: 0
+
+
+DV200	Thu Jun 27 22:58:14 2013
+	Fatal lock manager error: invalid lock id (30672), errno: 0
+
+
+DV200	Thu Jun 27 22:58:14 2013
+	Shutting down the server with 2 active connection(s) to 2 database(s), 0 active service(s)
+
+
+DV200	Thu Jun 27 22:58:19 2013
+	Fatal lock manager error: invalid lock id (33216), errno: 0
+
+
+DV200	Wed Dec 04 21:09:10 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Wed Dec 04 21:35:48 2013
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Feb 07 16:19:39 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 21580, OAT 41590, OST 41590, Next 41593
+
+
+DV200	Fri Feb 07 16:19:40 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 41589, OAT 41590, OST 41590, Next 41605
+
+
+DV200	Sat Feb 08 13:45:37 2014
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Tue Feb 11 16:30:30 2014
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Wed Mar 05 20:39:50 2014
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Fri Mar 07 11:44:55 2014
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+DV200	Sat Mar 15 22:07:06 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 41708, OAT 61682, OST 61682, Next 61714
+
+
+DV200	Sat Mar 15 22:07:07 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61713, OAT 61714, OST 61714, Next 61724
+
+
+KUNIO-PC	Sat Mar 29 19:47:05 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 41708, OAT 61732, OST 61732, Next 61738
+
+
+KUNIO-PC	Sat Mar 29 19:47:05 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61731, OAT 61732, OST 61732, Next 61742
+
+
+KUNIO-PC	Sat Mar 29 19:47:05 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61731, OAT 61732, OST 61732, Next 61742
+
+
+KUNIO-PC	Sat Mar 29 19:47:05 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61731, OAT 61732, OST 61732, Next 61743
+
+
+KUNIO-PC	Sat Mar 29 19:47:05 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61731, OAT 61732, OST 61732, Next 61743
+
+
+KUNIO-PC	Sat Mar 29 19:47:06 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\LOGBASE.FDB" 
+	OIT 61731, OAT 61732, OST 61732, Next 61744
+
+
+KUNIO-PC	Fri Nov 28 21:15:45 2014
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\REFERENCE.FDB" 
+	OIT 60101, OAT 80208, OST 80208, Next 80210
+
+
+KUNIO-PC	Fri Nov 28 21:15:46 2014
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.0.0\REFERENCE.FDB" 
+	OIT 80207, OAT 80209, OST 80208, Next 80214
+
+
+KUNIO-PC	Fri Mar 06 10:04:19 2015
+	Sweep is started by SWEEPER
+	Database "C:\USERS\KUNIO\APPDATA\LOCAL\LOGBASE\LOGBASE.FDB" 
+	OIT 11210, OAT 31200, OST 31200, Next 31224
+
+
+KUNIO-PC	Fri Mar 06 10:04:19 2015
+	Sweep is finished
+	Database "C:\USERS\KUNIO\APPDATA\LOCAL\LOGBASE\LOGBASE.FDB" 
+	OIT 31223, OAT 31227, OST 31227, Next 31236
+
+
+OPTI3010	Mon Nov 06 10:02:28 2017
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.1.3\REFERENCE.FDB" 
+	OIT 391012, OAT 410998, OST 410997, Next 411015
+
+
+OPTI3010	Mon Nov 06 10:02:28 2017
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\LOGBASE V1.1.3\REFERENCE.FDB" 
+	OIT 411014, OAT 411016, OST 411015, Next 411021
+
+
+OPTI3010	Fri Jan 05 17:32:22 2018
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+OPTI3010	Fri Jan 05 17:33:09 2018
+	Shutting down the server with 1 active connection(s) to 1 database(s), 0 active service(s)
+
+
+OPTI3010	Fri Jan 19 10:34:58 2018
+	Sweep is started by SWEEPER
+	Database "C:\LOGBASE PROJECTS\EQSLBASE V1.00\EQSLBASE.FDB" 
+	OIT 5439, OAT 28483, OST 28483, Next 28484
+
+
+OPTI3010	Fri Jan 19 10:35:01 2018
+	Sweep is finished
+	Database "C:\LOGBASE PROJECTS\EQSLBASE V1.00\EQSLBASE.FDB" 
+	OIT 28482, OAT 28483, OST 28483, Next 28485
+
